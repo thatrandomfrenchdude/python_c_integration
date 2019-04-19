@@ -1,4 +1,4 @@
-# Python an C/C++ Integration
+# Python Integration for C/C++
 
 ## Description
 This code demonstrates how to call a Python script from a C/C++ program. This can be implemented on Mac/Linux.
